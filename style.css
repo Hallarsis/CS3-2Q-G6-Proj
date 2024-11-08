@@ -17,7 +17,7 @@ header img {
 
 header h1 {
     flex: 1;
-    font-family: Luminari ,Garamond;
+    font-family: Garamond, Serif;
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -131,7 +131,7 @@ aside {
     flex: 1;
     padding: 20px;
     border: 1px solid black;
-	border-radius: 6px;
+    border-radius: 6px;
     margin-left: 20px;
     background-color: #dbe9f3;
 }
